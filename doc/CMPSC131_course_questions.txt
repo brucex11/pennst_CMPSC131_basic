@@ -1,0 +1,30 @@
+
+What version of python?
+Will there be any discussion on virtual environment?
+Should scripts be command-line or GUI based?
+
+For user input to script:
+  * prompt the user?
+  * command-line parameters?
+  * config file?
+
+Software architecture:
+  * classes/subclasses?
+  * logging?
+
+IDE suggestions:  VSCode?
+
+Which DocString(PEP 257) format should we use?
+  * reStructuredText(reST)
+  * Google style
+  * NumPy style
+
+Source-code syntax:
+  * Use docstrings for all public classes/functions?
+  * type-hinting, eg:  def greet(name: str) -> str:
+  * indentation: tabs? spaces? 2-char? 4-char?
+  * Doc-tools?  Sphinx (most popular), pdoc, pydoc, pydoctor
+
+Will we ever use Jupyter Notebooks?
+
+Source-code mainenance using GitHub?
