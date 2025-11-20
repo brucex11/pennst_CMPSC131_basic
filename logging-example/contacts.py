@@ -84,4 +84,4 @@ class Main:
             actions[selected]()
             self.menu()
 
-Main("/tmp/contacts.csv").menu()
+Main("tmp/contacts.csv").menu()

@@ -1,0 +1,7 @@
+2025-11-20 10:38:36,461 - [INFO] [MainThread] (contacts:12) initializing contacts repository with file at: /tmp/contacts.csv
+2025-11-20 10:38:56,190 - [INFO] [MainThread] (contacts:16) creating contact: {'name': 'magnus c.', 'number': '444'}
+2025-11-20 10:39:43,521 - [INFO] [MainThread] (contacts:12) initializing contacts repository with file at: /tmp/contacts.csv
+2025-11-20 10:39:46,193 - [INFO] [MainThread] (contacts:29) retrieving all contact names
+2025-11-20 10:40:10,854 - [INFO] [MainThread] (contacts:36) retrieving full contact for name: magnus c.
+2025-11-20 10:43:21,647 - [INFO] [MainThread] (contacts:16) creating contact: {'name': 'maxime', 'number': '555'}
+2025-11-20 10:43:26,998 - [INFO] [MainThread] (contacts:29) retrieving all contact names
